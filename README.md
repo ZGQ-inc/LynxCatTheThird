@@ -9,7 +9,7 @@
 <p align="center"  style="margin-top: 25px;">
   <a href="https://t.me/LynxCatTheThird">
     <img src="https://img.shields.io/badge/%40LynxCatTheThird-blue?style=for-the-badge&logo=telegram&logoColor=%23ffffff&label=Telegram" alt="Telegram Badge" />
-  </a>
+  </a> 
   <a href="mailto:contact@lynx3.me">
     <img src="https://img.shields.io/badge/contact%40lynx3.me-red?style=for-the-badge&logo=gmail&logoColor=white&label=Email" alt="Email Badge" />
   </a>
